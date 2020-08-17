@@ -1,5 +1,5 @@
 # batcher
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![Java CI with Gradle](https://github.com/mrmanna/batcher/workflows/Java%20CI%20with%20Gradle/badge.svg)
 
 Batcher is to run batch jobs in a non-blocking way through event driven architecture - written in plain java not using any application development framework
 ##### Core Components
