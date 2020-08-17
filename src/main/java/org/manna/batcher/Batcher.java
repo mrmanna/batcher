@@ -9,6 +9,7 @@ package org.manna.batcher;
  *  <li>EventQueue as a Server</li>
  *  <li>Thread configuration options</li>
  *  <li>Web view to trace progress  </li>
+ *  <li>Proper Logger implementation </li>
  *  <li>More test cases</li>
  * </ul>
  * @author manna 
